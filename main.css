@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+  text-transform: capitalize;
+  color: #fff;
+  /* background-color: rgba(34, 0, 255, 0.233); */
+  background: #000;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+button,
+input {
+  cursor: pointer;
+}
+
+button,
+select,
+input {
+  font-family: inherit;
+  text-transform: capitalize;
+}
+
+.scroll {
+  /* border: 2px solid crimson; */
+  width: 35px;
+  height: 35px;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 10px;
+  right: 30px;
+  z-index: 1;
+  cursor: pointer;
+  background-color: #000;
+  transition: scale 0.1s ease-in;
+}
+
+.scroll:hover {
+  scale: 1.01;
+}
+
+.scroll-up {
+  bottom: 60px;
+}
+
+.card {
+  overflow: hidden;
+}
+
+.card img {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 50%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.flex-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  gap: 40px;
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+
+.count ol li {
+  transition: opacity 0.1s ease-in;
+}
+
+.count ol li:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.friend i {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.friend p.icon {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 20px;
+}

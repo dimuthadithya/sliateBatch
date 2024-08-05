@@ -1,0 +1,397 @@
+[
+    {
+        "name": "Chanuka Nirmal",
+        "rn": 1,
+        "gender": "male"
+    },
+    {
+        "name": "dulanka nimsara",
+        "rn": 2,
+        "gender": "male"
+    },
+    {
+        "name": "Bhanuka Gihan",
+        "rn": 3,
+        "gender": "male"
+    },
+    {
+        "name": "nimesh kavinda",
+        "rn": 5,
+        "gender": "male"
+    },
+    {
+        "name": "AK Dhulfa Banu",
+        "rn": 6,
+        "gender": "female"
+    },
+    {
+        "name": "Madheeha",
+        "rn": 7,
+        "gender": "female"
+    },
+    {
+        "name": "Salma",
+        "rn": 10,
+        "gender": "female"
+    },
+    {
+        "name": "Alaa",
+        "rn": 12,
+        "gender": "male"
+    },
+    {
+        "name": "Randima Nikapitiya",
+        "rn": 13,
+        "gender": "female"
+    },
+    {
+        "name": "Nadha",
+        "rn": 14,
+        "gender": "female"
+    },
+    {
+        "name": "nimesh laksri",
+        "rn": 18,
+        "gender": "male"
+    },
+    {
+        "name": "Abdhul Rahman",
+        "rn": 19,
+        "gender": "female"
+    },
+    {
+        "name": "Nipuni Navindya",
+        "rn": 20,
+        "gender": "female"
+    },
+    {
+        "name": "awishka isuru",
+        "rn": 22,
+        "gender": "male"
+    },
+    {
+        "name": "Madushan sathsara",
+        "rn": 23,
+        "gender": "male"
+    },
+    {
+        "name": "Sankila",
+        "rn": 24,
+        "gender": "female"
+    },
+    {
+        "name": "Dilan",
+        "rn": 25,
+        "gender": "male"
+    },
+    {
+        "name": "Sandesh",
+        "rn": 26,
+        "gender": "male"
+    },
+    {
+        "name": "Praveen Vishwa",
+        "rn": 27,
+        "gender": "male"
+    },
+    {
+        "name": "Tharuka Marasinghe",
+        "rn": 28,
+        "gender": "female"
+    },
+    {
+        "name": "kavishka hansaka",
+        "rn": 30,
+        "gender": "male"
+    },
+    {
+        "name": "Nimshi Imla",
+        "rn": 31,
+        "gender": "female"
+    },
+    {
+        "name": "fathima nafla",
+        "rn": 32,
+        "gender": "female"
+    },
+    {
+        "name": "Mufeek",
+        "rn": 33,
+        "gender": "male"
+    },
+    {
+        "name": "Sheronne Anjalee",
+        "rn": 34,
+        "gender": "female"
+    },
+    {
+        "name": "Dulmini Tharuka",
+        "rn": 35,
+        "gender": "female"
+    },
+    {
+        "name": "Dinusha",
+        "rn": 36,
+        "gender": "female"
+    },
+    {
+        "name": "Dinishi Nawoda",
+        "rn": 37,
+        "gender": "female"
+    },
+    {
+        "name": "Mohamed Miflan",
+        "rn": 40,
+        "gender": "male"
+    },
+    {
+        "name": "afra naasir",
+        "rn": 41,
+        "gender": "female"
+    },
+    {
+        "name": "Rangana harshani",
+        "rn": 42,
+        "gender": "female"
+    },
+    {
+        "name": "Ilma",
+        "rn": 45,
+        "gender": "female"
+    },
+    {
+        "name": "Faneeka",
+        "rn": 46,
+        "gender": "female"
+    },
+    {
+        "name": "vishaka harshani",
+        "rn": 51,
+        "gender": "female"
+    },
+    {
+        "name": "ruwini tharuka",
+        "rn": 52,
+        "gender": "female"
+    },
+    {
+        "name": "M.S.F Ramla",
+        "rn": 53,
+        "gender": "female"
+    },
+    {
+        "name": "Piyunil thashani",
+        "rn": 54,
+        "gender": "female"
+    },
+    {
+        "name": "Aqeela",
+        "rn": 56,
+        "gender": "female"
+    },
+    {
+        "name": "Gagani Jayasekara",
+        "rn": 57,
+        "gender": "female"
+    },
+    {
+        "name": "Gaganathara",
+        "rn": 59,
+        "gender": "female"
+    },
+    {
+        "name": "Nishadi Sashikala ",
+        "rn": 60,
+        "gender": "female"
+    },
+    {
+        "name": "Sithara Chandrasiri",
+        "rn": 61,
+        "gender": "female"
+    },
+    {
+        "name": "Dimuth adithya",
+        "rn": 62,
+        "gender": "male"
+    },
+    {
+        "name": "Zeinab",
+        "rn": 63,
+        "gender": "female"
+    },
+    {
+        "name": "Shaheema",
+        "rn": 64,
+        "gender": "female"
+    },
+    {
+        "name": "Nimesha Bandara",
+        "rn": 65,
+        "gender": "female"
+    },
+    {
+        "name": "shehani Christina",
+        "rn": 66,
+        "gender": "female"
+    },
+    {
+        "name": "Aaysha Hussain",
+        "rn": 67,
+        "gender": "female"
+    },
+    {
+        "name": "Afra jesmi",
+        "rn": 68,
+        "gender": "female"
+    },
+    {
+        "name": "Shafa",
+        "rn": 69,
+        "gender": "female"
+    },
+    {
+        "name": "Bimsara",
+        "rn": 70,
+        "gender": "male"
+    },
+    {
+        "name": "Aysha",
+        "rn": 71,
+        "gender": "female"
+    },
+    {
+        "name": "mohomed maahi",
+        "rn": 72,
+        "gender": "male"
+    },
+    {
+        "name": "Maduka",
+        "rn": 75,
+        "gender": "male"
+    },
+    {
+        "name": "Imasha Sandamini",
+        "rn": 78,
+        "gender": "female"
+    },
+    {
+        "name": "Tharushi",
+        "rn": 79,
+        "gender": "female"
+    },
+    {
+        "name": "Lakshika Madumali",
+        "rn": 80,
+        "gender": "female"
+    },
+    {
+        "name": "Anuradha Deshani",
+        "rn": 81,
+        "gender": "female"
+    },
+    {
+        "name": "Diluni kawindi",
+        "rn": 83,
+        "gender": "female"
+    },
+    {
+        "name": "Risla",
+        "rn": 84,
+        "gender": "female"
+    },
+    {
+        "name": "Aadhila",
+        "rn": 86,
+        "gender": "female"
+    },
+    {
+        "name": "Manoj Kalpitha",
+        "rn": 88,
+        "gender": "male"
+    },
+    {
+        "name": "Ravindu Guruge",
+        "rn": 89,
+        "gender": "male"
+    },
+    {
+        "name": "Shamlan",
+        "rn": 90,
+        "gender": "female"
+    },
+    {
+        "name": "M F M Sajeedh",
+        "rn": 91,
+        "gender": "female"
+    },
+    {
+        "name": "Waseema",
+        "rn": 92,
+        "gender": "female"
+    },
+    {
+        "name": "udara nuwan",
+        "rn": 93,
+        "gender": "male"
+    },
+    {
+        "name": "Reeha",
+        "rn": 94,
+        "gender": "female"
+    },
+    {
+        "name": "chavindu priyasara",
+        "rn": 95,
+        "gender": "male"
+    },
+    {
+        "name": "Sachinthaka",
+        "rn": 101,
+        "gender": "male"
+    },
+    {
+        "name": "Gowry",
+        "rn": 102,
+        "gender": "female"
+    },
+    {
+        "name": "navil fernando",
+        "rn": 104,
+        "gender": "male"
+    },
+    {
+        "name": "Nipuni",
+        "rn": 106,
+        "gender": "female"
+    },
+    {
+        "name": "Shafna",
+        "rn": 108,
+        "gender": "female"
+    },
+    {
+        "name": "Aasikha",
+        "rn": 109,
+        "gender": "female"
+    },
+    {
+        "name": "Mahesha chomodi",
+        "rn": 113,
+        "gender": "female"
+    },
+    {
+        "name": "M.I Ilma",
+        "rn": 114,
+        "gender": "female"
+    },
+    {
+        "name": "Dinithi",
+        "rn": 16,
+        "gender": "female"
+    },
+    {
+        "name": "Fathima",
+        "rn": 17,
+        "gender": "female"
+    }
+]
