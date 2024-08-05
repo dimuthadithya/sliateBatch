@@ -18,5 +18,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/dimuthx353/hndit2022.git
+   git clone https://github.com/dimuthx353/SLIATE-BATCH
    ```
