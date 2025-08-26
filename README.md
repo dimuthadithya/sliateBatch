@@ -1,3 +1,7 @@
+# SliateBatch
+
+![Project Image](images/image.png)
+
 # Batchmates Webpage
 
 This project is a simple web page created during my college days to display the friends in our batch. The webpage lists all the batchmates along with their photos and brief information.
